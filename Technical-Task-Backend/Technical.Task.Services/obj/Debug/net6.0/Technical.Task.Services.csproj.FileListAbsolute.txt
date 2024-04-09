@@ -1,0 +1,15 @@
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.csproj.AssemblyReference.cache
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.AssemblyInfoInputs.cache
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.AssemblyInfo.cs
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.csproj.CoreCompileInputs.cache
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\bin\Debug\net6.0\Technical.Task.Services.deps.json
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\bin\Debug\net6.0\Technical.Task.Services.dll
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\bin\Debug\net6.0\Technical.Task.Services.pdb
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\bin\Debug\net6.0\Technical.Task.Model.dll
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\bin\Debug\net6.0\Technical.Task.Model.pdb
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.csproj.CopyComplete
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.dll
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\refint\Technical.Task.Services.dll
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\Technical.Task.Services.pdb
+E:\Rectangle\Technical-Task-Backend\Technical.Task.Services\obj\Debug\net6.0\ref\Technical.Task.Services.dll
