@@ -1,0 +1,1 @@
+export type HttpOptions = 'form' | 'json' | 'normal' | 'array-buffer' | 'blob' | 'x-show-loader' | 'bodyInRequestOptions' | 'x-error-interceptor' | 'text' | 'x-skip-authorization' | 'show-loader-message';
